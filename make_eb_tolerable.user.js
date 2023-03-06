@@ -25,10 +25,7 @@ function unwanted_element_hide(el) {
 
 function unwanted_element(el) {
   // Default action
-  //console.log(el)
-  //if (el !== undefined && el !== null) {
-    unwanted_element_remove(el)
-  //}
+  unwanted_element_remove(el)
 }
 
 // All the different ways paywalled articles show
