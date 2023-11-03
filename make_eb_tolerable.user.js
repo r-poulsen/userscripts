@@ -6,6 +6,7 @@
 // @version     1.1
 // @author      r-poulsen
 // @description Makes ekstrabladet.dk slightly more tolerable
+// @homepageURL https://github.com/r-poulsen/greasemonkey/
 // ==/UserScript==
 
 function unwanted_element_blur(el) {

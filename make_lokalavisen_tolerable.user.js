@@ -6,6 +6,7 @@
 // @version     1.0
 // @author      r-poulsen
 // @description Makes lokalavisen.dk slightly more tolerable
+// @homepageURL https://github.com/r-poulsen/greasemonkey/
 // ==/UserScript==
 
 function unwanted_element_blur(el) {
