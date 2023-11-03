@@ -10,18 +10,28 @@
 
 GM_addStyle(`
 body {
-  background-color: #222;
+  background-color: #111;
 }
 
 table {
-  background-color: #333;
+  background-color: #222;
 }
 
 span,p,a, .c00, c00 a:link  {
   color: #ccc !important;
 }
 
+td.subtext {
+  padding-bottom: 1em;
+}
+
 .subline a, .score, .comhead a {
   color: lightblue !important;
 }
+
+/* Holy table-based page-layout, Batman! */
+#hnmain > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) {
+  background-color: #333;
+}
+
 `);
