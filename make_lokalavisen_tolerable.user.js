@@ -1,12 +1,11 @@
 // ==UserScript==
 // @name        Make lokalavisen.dk tolerable
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/r-poulsen/greasemonkey/
 // @match       https://lokalavisen.dk/*
 // @grant       none
 // @version     1.0
 // @author      r-poulsen
 // @description Makes lokalavisen.dk slightly more tolerable
-// @homepageURL https://github.com/r-poulsen/greasemonkey/
 // ==/UserScript==
 
 function unwanted_element_blur(el) {

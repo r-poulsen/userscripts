@@ -1,12 +1,11 @@
 // ==UserScript==
 // @name        Make ekstrabladet.dk tolerable
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/r-poulsen/greasemonkey/
 // @match       https://ekstrabladet.dk/*
 // @grant       none
 // @version     1.1
 // @author      r-poulsen
 // @description Makes ekstrabladet.dk slightly more tolerable
-// @homepageURL https://github.com/r-poulsen/greasemonkey/
 // ==/UserScript==
 
 function unwanted_element_blur(el) {
