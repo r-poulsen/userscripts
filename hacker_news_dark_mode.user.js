@@ -3,6 +3,7 @@
 // @namespace   https://github.com/r-poulsen/greasemonkey/
 // @match       https://news.ycombinator.com/*
 // @grant       GM_addStyle
+// @run-at      document-start
 // @version     1.0
 // @author      r-poulsen
 // @description Enables dark mode for Hacker News
