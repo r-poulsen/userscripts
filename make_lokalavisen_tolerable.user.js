@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Make lokalavisen.dk tolerable
-// @namespace   https://github.com/r-poulsen/greasemonkey/
+// @namespace   https://github.com/r-poulsen/userscripts/
 // @match       https://lokalavisen.dk/*
 // @grant       none
 // @version     1.0

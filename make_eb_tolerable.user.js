@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Make ekstrabladet.dk tolerable
-// @namespace   https://github.com/r-poulsen/greasemonkey/
+// @namespace   https://github.com/r-poulsen/userscripts/
 // @match       https://ekstrabladet.dk/*
 // @grant       none
 // @version     1.1

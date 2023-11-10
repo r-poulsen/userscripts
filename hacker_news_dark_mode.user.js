@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Hacker News dark mode
-// @namespace   https://github.com/r-poulsen/greasemonkey/
+// @namespace   https://github.com/r-poulsen/userscripts/
 // @match       https://news.ycombinator.com/*
 // @grant       GM_addStyle
 // @run-at      document-start
