@@ -14,7 +14,7 @@ function unwanted_element_blur(el) {
 }
 
 function unwanted_element_remove(el) {
-    // Just plan remove it. Potentially break layout.
+    // Just plain remove it. Potentially break layout.
     el.parentElement.removeChild(el);
 }
 
